@@ -1,0 +1,32 @@
+git init - creates a new local repository
+
+git config --global user.name "Siddhant Deshmukh" - Configues the author name to be used
+
+git clone - creates a working copy of a repository
+
+git add - add files to the staging area
+
+git commit - commits changes
+
+git push origin master - send changes to the master branch of remote repository
+
+git stats - shows status of files that are changed
+
+git checkout -b siddhant - creates a mew branch named siddhant and switches to it
+
+git pull - it pulls and merge changes on the remote server to the working directory
+
+git merge - it is used to merge branch into other branch
+
+git diff - used to view all merge conflicts
+
+git tag - it is used to tag a major change
+
+git log - it is used to see all the commit logs
+
+git remote - it is used to connect local repository with remote repository
+
+git rm - removes files from the staging area
+
+
+
